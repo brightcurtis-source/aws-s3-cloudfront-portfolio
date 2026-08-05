@@ -150,9 +150,9 @@ Through this project, I gained practical experience in:
 
 Aspiring Cloud Engineer | Data Engineer | AI Enthusiast
 
-GitHub: https://github.com/bright-curtis
+GitHub: https://github.com/brightcurtis-source
 
-LinkedIn: https://www.linkedin.com/in/brytcurtis-dev
+LinkedIn: https://www.linkedin.com/in/bryt-curtis-dev
 
 ---
 
