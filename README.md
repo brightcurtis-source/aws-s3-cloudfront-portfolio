@@ -151,9 +151,9 @@ Through this project, I gained practical experience in:
 Aspiring Cloud Engineer | Data Engineer | AI Enthusiast
 
 GitHub: https://github.com/brightcurtis-source
-
 LinkedIn: https://www.linkedin.com/in/bryt-curtis-dev
 Life Portfolio: [Cloudfront URL]https://domb8htdena97.cloudfront.net/
+
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository and connect with me.
